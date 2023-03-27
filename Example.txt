@@ -1,3 +1,7 @@
 Hello!
 
+<<<<<<< HEAD
 sonic is superior.
+=======
+Mario proved more popular than sonic in a class poll.
+>>>>>>> 9b2504baf5635b0392e1a1157844327bf5e7abde
